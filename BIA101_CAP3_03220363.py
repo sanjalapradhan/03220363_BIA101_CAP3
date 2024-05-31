@@ -5,7 +5,8 @@
 # 03230363
 ################################
 # REFERENCES
-# No external references used.
+# https://youtu.be/0yIFEJ879lw?si=USq7yD2XPMWaACh4
+# https://youtu.be/Uh2ebFW8OYM?si=IMGxkkwb2fSwTMFl
 ################################
 # SOLUTION
 # Solution Score: 490742
